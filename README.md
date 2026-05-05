@@ -17,7 +17,6 @@ CODE_ORGANIZATION: code-sena
 
 🎓 Aprendiz en formación
 💻 Tecnólogo en Análisis y Desarrollo de Software
-📍 18 años
 
 ## 🚀 Sobre mí
 
