@@ -2,7 +2,7 @@
 <!--
 CONFIG
 FULL_NAME: Luis Eduardo Buitrago Pascuas
-GITHUB_USER: luisbuitrago
+GITHUB_USER: luisbuitrago-hub
 EMAIL: luisbuitragopascuas@gmail.com
 CODE_ORGANIZATION: code-sena
 -->
