@@ -23,10 +23,6 @@ CODE_ORGANIZATION: code-sena
 Soy estudiante de desarrollo de software y me interesa aprender y mejorar cada día.
 Me gusta practicar, entender cómo funcionan las cosas y seguir creciendo en el área de la tecnología.
 
-## ⚽ Pasatiempos
-
-* Jugar fútbol
-* Jugar videojuegos
 
 ## 🎯 Objetivo
 
